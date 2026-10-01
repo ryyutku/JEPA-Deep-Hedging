@@ -22,6 +22,8 @@ Layer 3: Risk Measures and Pricing (Week 4–5)
 - Rockafellar-Uryasev CVaR Formula — the optimization representation of CVaR
 - The Indifference Price 
 
+--------------------------------------------------------------------------------------------------
+
 Layer 4: Deep Hedging (Week 5–6)
 - Deep Hedging framework — Buehler et al., Sections 2–4
 - Neural network architectures — feedforward, recurrent, semi-recurrent
