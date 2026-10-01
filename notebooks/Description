@@ -1,1 +1,34 @@
 Only clean, finalized notebooks
+
+learning path
+Layer 0: Foundations (Week 1–2)
+- Probability refresher: random variables, expectation, conditional expectation, filtrations, martingales
+- Brownian Motion — definition, properties, quadratic variation
+- Itô Calculus — Itô integral, Itô's lemma, SDEs
+- Risk-Neutral vs Real-World Measure — Girsanov's theorem, equivalent martingale measures
+
+Layer 1: Classical Pricing (Week 2–3)
+- Option Payoffs — calls, puts, spreads, digitals, path-dependent
+- Black-Scholes Model & Greeks — derivation via replication, delta, gamma, vega, theta
+- Monte Carlo Estimation — law of large numbers, CLT, variance reduction, discretization bias
+
+Layer 2: Numerical Methods for SDEs (Week 3–4)
+- Euler-Maruyama Discretization — convergence, bias-variance tradeoff
+- Heston Model — the SDE system, Feller condition, implied volatility smile
+- Broadie-Kaya Scheme — exact simulation of Heston (CIR process + stock)
+
+Layer 3: Risk Measures and Pricing (Week 4–5)
+- Convex Risk Measures — axioms (monotonicity, convexity, cash-invariance), coherent vs convex
+- Rockafellar-Uryasev CVaR Formula — the optimization representation of CVaR
+- The Indifference Price 
+
+Layer 4: Deep Hedging (Week 5–6)
+- Deep Hedging framework — Buehler et al., Sections 2–4
+- Neural network architectures — feedforward, recurrent, semi-recurrent
+- Training via SGD/Adam — loss functions, backpropagation, minibatches
+
+Layer 5: JEPA (Week 6–8)
+- Self-supervised learning — contrastive vs predictive, representation learning
+- JEPA — joint embedding, predictor, target encoder, stop-gradient
+- I-JEPA / V-JEPA / TD-JEPA — instantiations
+- FinJEPA — closest existing work to your thesis
