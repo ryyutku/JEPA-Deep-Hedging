@@ -1,4 +1,8 @@
-Only runnable code and everything that has been tested and merged from dev. 
-Nothing experimental
+Dev branch
 
-Everything here must pass test. No half-finished code. No untested experiments
+Where most of daily work is done. Everything eventually flows into main from here
+
+All the same folders as main, but with work-in-progress content.
+Branches off main and receives merges from feature/*
+
+Must run tests, test may be incomplete, but the code shouldn't crash. This is working branch.
