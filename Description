@@ -1,8 +1,3 @@
-Dev branch
+thesis branch
 
-Where most of daily work is done. Everything eventually flows into main from here
-
-All the same folders as main, but with work-in-progress content.
-Branches off main and receives merges from feature/*
-
-Must run tests, test may be incomplete, but the code shouldn't crash. This is working branch.
+No code. Only writing. If you need a figure, you generate it on dev, save it to results/, then copy it here via sync_figures.sh.
