@@ -1,3 +1,3 @@
-thesis branch
+Research branch
 
-No code. Only writing. If you need a figure, you generate it on dev, save it to results/, then copy it here via sync_figures.sh.
+No code. Only writing. Branch strictly handles all the research done by reading papers.
