@@ -1,0 +1,14 @@
+# requirements.txt
+
+# The Heston repo's deps (TF used only for data generation)
+numpy==2.1.3
+tensorflow==2.19.0
+matplotlib==3.10.5
+pytest==9.1.1
+# JEPA model deps (PyTorch — no GPU required for thesis scale)
+torch>=2.2.0
+scikit-learn>=1.4.0
+
+# Utilities
+jupyter
+tqdm

@@ -1,0 +1,5 @@
+The idea is to use the Heston model from the git repo
+repo: https://github.com/hb84ffm/deep-hedging-heston 
+(Which simulates the same Heston model which was simulated in the Deep Hedging paper by Buehler et al.)
+
+Try to vibe code a JEPA model into it. And see how it performs
