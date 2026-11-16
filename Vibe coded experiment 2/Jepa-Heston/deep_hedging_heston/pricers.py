@@ -1,4 +1,4 @@
-# pricers.py
+# deep_hedging_heston/pricers.py
 import numpy as np   # only dependency: numpy arrays
 
 def heston_call_deltas(stock_prices, variance, tau, heston_parameters, N=256, chunk=8192):
